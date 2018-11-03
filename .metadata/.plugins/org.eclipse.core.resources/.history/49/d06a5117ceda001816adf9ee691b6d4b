@@ -1,0 +1,18 @@
+'''
+Created on Oct 28, 2018
+
+@author: nilson.nieto
+'''
+
+cadena = "Awesome"
+
+
+paraffin= """
+You are the creator
+of your destiny
+"""
+print(cadena)
+
+print(paraffin)
+
+print(cadena*3)

@@ -1,0 +1,9 @@
+'''
+Created on Oct 28, 2018
+
+@author: nilson.nieto
+'''
+
+cadena = "Awesome"
+
+print(cadena)

@@ -1,0 +1,15 @@
+'''
+Created on Oct 27, 2018
+
+@author: nilson.nieto
+'''
+a=12
+b=231
+c=2323
+print("Int values")
+print(a,b,c)
+
+x=1.23
+y=23.01
+print("Float point")
+print(x,y)

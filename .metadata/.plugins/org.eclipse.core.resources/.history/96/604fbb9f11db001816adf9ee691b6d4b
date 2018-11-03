@@ -1,0 +1,19 @@
+'''
+Created on Oct 28, 2018
+
+@author: nilson.nieto
+'''
+
+list_countries = ['Colombia','Mexico','Brasil']
+
+list_countries.append('Argentina')
+
+print(list_countries)
+
+del list_countries[1]
+
+print(list_countries)
+
+list_countries.insert(int(len(list_countries)/2), 'Venezuela')
+
+print(list_countries)

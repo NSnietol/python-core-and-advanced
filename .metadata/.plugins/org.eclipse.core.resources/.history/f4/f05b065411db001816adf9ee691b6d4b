@@ -1,0 +1,10 @@
+'''
+Created on Oct 28, 2018
+
+@author: nilson.nieto
+'''
+
+list_countries = ['Colombia','Mexico','Brasil']
+
+list_countries.append('España')
+print(list_countries)

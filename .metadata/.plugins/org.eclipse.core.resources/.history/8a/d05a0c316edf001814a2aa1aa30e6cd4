@@ -1,0 +1,15 @@
+'''
+Created on Nov 3, 2018
+
+@author: nilson.nieto
+'''
+
+index = "PC"
+name = "python"
+
+
+print(index,name,sep=' + ')
+
+
+
+print("Hello {0} from {1}".format("World","Python"))
