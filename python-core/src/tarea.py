@@ -15,7 +15,8 @@ if(primeFlag==True):
     print("Is Prime")
 else:
     print("Not is prime")
-'''    
+'''   
+import sys.argv 
 number = int(input("Number : "))
 i = number
 while (i<100):
